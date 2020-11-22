@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="some kind of fps idk"
+run/main_scene="res://scenes/application_root.tscn"
 config/icon="res://icon.png"
 
 [rendering]
